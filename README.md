@@ -12,18 +12,18 @@ Researcher will obtain 30-50 JDs and review against expected criteria.<BR />
 The greater the number of roles diseminated the greater the accuracy of the role research report.<BR /> 
 
 ## What roles we intend to research:
-Security Analyst<BR /> 
-Security Engineer<BR /> 
-Security Manager<BR /> 
-Security Architect<BR /> 
-Security Director<BR /> 
+* Security Analyst
+* Security Engineer
+* Security Manager
+* Security Architect
+* Security Director
 
 
 ## What specifically are employers looking for:
-Skills<BR /> 
-Certifications<BR /> 
-Experience<BR /> 
-Education<BR /> 
+* Skills
+* Certifications
+* Experience
+* Education
 
 
 
