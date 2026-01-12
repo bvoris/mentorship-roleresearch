@@ -16,7 +16,7 @@ The greater the number of roles diseminated the greater the accuracy of the role
 * Security Engineer - designs, builds, and maintains secure IT systems and networks
 * Security Manager - manages individuals, or groups of individual contributors but may also function as an analyst or engineer
 * Security Architect - designs build and maintains an organizations overall cybersecurity structure
-* Security Director - oversees all security operations within an organization, managing bothe physical and cybersecurity measures to protect people, assets, and data.
+* Security Director - oversees all security operations within an organization, managing both physical and cybersecurity measures to protect people, assets, and data.
 
 
 ## What specifically are employers looking for:
