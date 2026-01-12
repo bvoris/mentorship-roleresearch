@@ -12,18 +12,18 @@ Researcher will obtain 30-50 JDs and review against expected criteria.<BR />
 The greater the number of roles diseminated the greater the accuracy of the role research report.<BR /> 
 
 ## What roles we intend to research:
-* Security Analyst
-* Security Engineer
-* Security Manager
-* Security Architect
-* Security Director
+* Security Analyst - protects an organization's computer networks and system from cyber threats by monitoring for breaches, investigating incidents, implementing security measures and developing policies
+* Security Engineer - designs, builds, and maintains secure IT systems and networks
+* Security Manager - manages individuals, or groups of individual contributors but may also function as an analyst or engineer
+* Security Architect - designs build and maintains an organizations overall cybersecurity structure
+* Security Director - oversees all security operations within an organization, managing bothe physical and cybersecurity measures to protect people, assets, and data.
 
 
 ## What specifically are employers looking for:
-* Skills
-* Certifications
-* Experience
-* Education
+* Skills - abilities possed by the individual required to complete their assigned job duties
+* Certifications - credentials proving specific skills or knowledge
+* Experience - knowledge or skill gained for doing, seeing, or feeling things over time
+* Education - the lifelong process of acquiring knowledge, skills, values, and character development (usually form, non-formal, informal in nature)
 
 
 
