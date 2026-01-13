@@ -30,7 +30,7 @@ The greater the number of roles diseminated the greater the accuracy of the role
 2026 In Development<BR /> 
 
 ## Previous Role Research
-2025<BR /> 
+2025 [Security Analyst Role Research](https://github.com/bvoris/houseccon2025presentation/blob/main/research/Security%20Analyst%20Job%20Research%202025.xlsx)<BR /> 
 
 ## Connect with me at
 
