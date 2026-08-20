@@ -25,11 +25,7 @@ The greater the number of roles diseminated the greater the accuracy of the role
 * Experience - knowledge or skill gained for doing, seeing, or feeling things over time
 * Education - the lifelong process of acquiring knowledge, skills, values, and character development (usually form, non-formal, informal in nature)
 
-
-## Current Role Research
-2026 In Development<BR /> 
-
-## Previous Role Research
+## Role Research by Year
 2025 [Security Analyst Role Research](https://github.com/bvoris/houseccon2025presentation/blob/main/research/Security%20Analyst%20Job%20Research%202025.xlsx)<BR /> 
 2026 [Security Analyst Role Research](https://github.com/bvoris/mentorship-roleresearch/blob/main/2026/Security%20Analyst%20Job%20Research%202026.xlsx)<BR /> 
 
