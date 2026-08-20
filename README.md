@@ -31,6 +31,7 @@ The greater the number of roles diseminated the greater the accuracy of the role
 
 ## Previous Role Research
 2025 [Security Analyst Role Research](https://github.com/bvoris/houseccon2025presentation/blob/main/research/Security%20Analyst%20Job%20Research%202025.xlsx)<BR /> 
+2026 [Security Analyst Role Research](https://github.com/bvoris/mentorship-roleresearch/blob/main/2026/Security%20Analyst%20Job%20Research%202026.xlsx)<BR /> 
 
 ## Connect with me at
 
